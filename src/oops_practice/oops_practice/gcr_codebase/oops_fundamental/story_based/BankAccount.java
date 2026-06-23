@@ -1,4 +1,4 @@
-package oops_practice.oops_practice.gcr_codebase.story_based;
+package oops_practice.oops_practice.gcr_codebase.oops_fundamental.story_based;
 
 class BankAccount {
     private String accountNumber;
